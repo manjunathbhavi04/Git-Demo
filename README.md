@@ -10,7 +10,7 @@ In Git there are Four types of status
 <h4>unmodified- when it is untouched or no changes are made to it.</h4>
 
 <h2> git push -u origin main </h2>
- -> Here u is used set upstream meaning if we are going to push into the same repository then we can set the origin so next time we push we can directly use <h5> git push </h5>
+ -> Here u is used set upstream meaning if we are going to push into the same repository then we can set the origin so next time we push we can directly use <bold>git push</bold>
 
 <h2> Branches in git </h2>
  -> branches are the names of the projects, there can be multiple branches where each branch is for different use, so that everyone is working without wait for other branch to complete.
