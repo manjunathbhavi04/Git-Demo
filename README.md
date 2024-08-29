@@ -17,13 +17,13 @@ In Git there are Four types of status
  now when every branch completes their work then they can merge it.
 
 <h2> To change the name of the branch  </h2>
- -> <h4>git branch -m <name of the branch></h4>
+ <h4>-> git branch -m name of the branch</h4>
 
 <h2> To navigate to different Branches  </h2>
-  -> <h4> git checkout <branch name> </h4>
+<h4>-> git checkout branch name </h4>
 
 <h2> To create a new branch </h2>
--> <h4> git checkout -b <new branch name> </h4>
+<h4>-> git checkout -b new branch name </h4>
 
  <h2>To delete a Branch </h2>
- -> <h4> git branch -d <branch name> </h4>
+ <h4>-> git branch -d branch name </h4>
