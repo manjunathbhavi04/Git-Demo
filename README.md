@@ -1,5 +1,5 @@
 # Git-Demo
-this is my first git demo
+<h2>This is my first git demo</h2>
 
 In Git there are Four types of status 
 <h4>Untracked- when a new file is craeted which was not in the git repo.</h4>
