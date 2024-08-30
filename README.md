@@ -23,7 +23,7 @@ In Git there are Four types of status
 <h4>-> git checkout branch name </h4>
 <hr>
 <h3> To create a new branch </h3>
-<h4>-> git branch -b new branch name </h4>
+<h4>-> git checkout -b new branch name </h4>
 <hr>
  <h3>To delete a Branch </h3>
  <h4>-> git branch -d branch name <b>Cannot delet the branch we are currently using.</b></h4>
